@@ -8,6 +8,7 @@ public class Devi45 {
 		a=10;
 		b=20;
 		c =a+b;
+		int d=b-a;
 
 		System.out.println(c);
 
